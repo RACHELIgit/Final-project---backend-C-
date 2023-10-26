@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\bin\Debug\net7.0\Commomon_Dto.deps.json
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\bin\Debug\net7.0\Commomon_Dto.dll
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\bin\Debug\net7.0\Commomon_Dto.pdb
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.dll
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\refint\Commomon_Dto.dll
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\Commomon_Dto.pdb
+C:\Users\LENOVO\Desktop\לימודים\project\project\Commomon_Dto\obj\Debug\net7.0\ref\Commomon_Dto.dll
